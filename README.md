@@ -1,4 +1,3 @@
-=
 # The Love of Boba
 
 **The Love of Boba** is a website dedicated to everything boba! While the site is currently a work in progress, we have exciting plans to expand our content in the near future.
